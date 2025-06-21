@@ -1,0 +1,5 @@
+Flask==2.3.2
+flask-cors==3.0.10
+PyMuPDF==1.23.7
+pytesseract==0.3.10
+Pillow==10.3.0
