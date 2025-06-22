@@ -1,4 +1,4 @@
-# mdcat-quiz-app
+# pdf to solvable sheet
  currently only raw or basic version is available nothing pretty just ''Working'' so upload any pdf ocr and text based are both supported 
  currently chokes on messy notes 
  auto check feature will be added in future update 
